@@ -1,1 +1,1 @@
-# luci-app-argon-config
+适用于openwrt 25.12版本
